@@ -50,6 +50,14 @@ window.picturesData = [
     price: 30
   },
   {
+    name: 'Mary',
+    category: 'Detroit Series',
+    imageUrl: 'images/item-11.JPG',
+    description:
+      'Taken in Detroit, Michigan, USA. The striking accents of red with the lighting made it impossible not to capture the true essence of this statue.',
+    price: 20
+  },
+  {
     name: 'Untitled Masterpiece',
     category: 'Graffiti Series',
     imageUrl: 'images/item-14.jpg',
