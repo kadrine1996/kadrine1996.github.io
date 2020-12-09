@@ -328,3 +328,21 @@ footer {
     width: 300px;
   }
 }
+
+@media screen and (max-width: 600px) {
+
+  .news-container{
+    width: 70%;
+  }
+  .news-container h3{
+    font-size: 0.7rem;
+  }
+
+  .news-container p{
+    font-size: 0.7rem;
+  }
+
+  .input[type='submit'] {
+    width: 10%;
+  }
+}
