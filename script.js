@@ -28,7 +28,7 @@ window.picturesData = [
   {
     name: 'Under the Bridge',
     category: 'Water Series',
-    imageUrl: 'images/item-22.JPG',
+    imageUrl: 'images/item-22.jpg',
     description:
       'Taken in in Windsor, Ontario, Canada. Captured is the essence of Windsor, being a border city there is constant transport to and from Detroit everyday. There is an approximate of 10,000 trucks and hundreds of ships transporting cargo each day.',
     price: 30
@@ -45,7 +45,7 @@ window.picturesData = [
   {
     name: 'Mary',
     category: 'Detroit Series',
-    imageUrl: 'images/item-11.jpg',
+    imageUrl: 'images/item-11.JPG',
     description:
       'Taken in Detroit, Michigan, USA. The striking accents of red with the lighting made it impossible not to capture the true essence of this statue.',
     price: 20
