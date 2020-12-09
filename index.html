@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web222 Store</title>
+    <link rel="shortcut icon" href="images/icon.jpg" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@200;300&family=Roboto+Slab&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+ 
+       <style>
+        @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+        </style>
+  </head>
+  <body>
+  <div class="WebContainer">
+
+      <div class="logo"> 
+
+        <h3>Kadrine's<br>Photography</h3>
+      </div>
+     
+     <div id="home-page-header">
+      <div class="header_content">
+        <div class="header_text">
+          <header>
+            <h3>
+              <span style="color: rgba(83, 3, 30, 0.61)">Purchase</span> your very own original,
+              limited addition prints, from Kadrine's Photography today! Available in all sizes
+             </h3>
+           </header>
+         </div>
+        </div>
+      </div>
+      <hr class=newLine>
+    
+      <div class="mobile-container">
+
+      
+        <div class="topnav">
+          <a href="index.html" class="active">Home</a>
+             <div id="myLinks">
+            <a href="about.html" class="topnav">About</a>
+            <a href="#abandoned" id="abandoned_series">Abandoned Series</a>
+    
+        <a href="#development" id="development_series">Development Series</a>
+   
+      <a href="#detroit" id="detroit_series">Detroit Series</a>
+      <a href="#graffiti" id="graffiti_series">Graffiti Series</a>
+      <a href="#nature" id="nature_series">Nature Series</a>
+      <a href="#water" id="water_series">Water Series</a>
+      <a href="#exhibition" id="exhibition_series">Exhibition Series</a>
+      <a href="contact.html" class="topnav">Contact Us</a>
+             </div>
+          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a>
+        </div>
+
+      </div>
+      <script>
+        function myFunction() {
+          var x = document.getElementById("myLinks");
+          if (x.style.display === "block") {
+            x.style.display = "none";
+          } else {
+            x.style.display = "block";
+          }
+        }
+        </script>
+
+
+       
+         
+    </div>
+      <div id="category_main">
+        <div id="products"></div>
+      </div>
+      <div class="socials">
+        <a href="https://facebook.com"><i class="fa fa-facebook-square"></i></a>
+        <a href="https://instagram.com"><i class="fa fa-instagram"></i></a>
+        <a href="https://twitter.com"><i class="fa fa-twitter"></i></a>
+      </div>
+      <footer>
+        <form action="https://formspree.io/f/xyybdrgq" method="POST">
+          <ul class="news-container">
+            <li>
+              <h3>get the latest</h3>
+              <p>Subscribe to get our latest collection!</p>
+              <input type="email" placeholder="name1@example.com" name="_replyto"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required><br>
+              <input type="submit" value="Subscribe">
+            </li>
+          </ul>
+        </form>
+        <div class="footer">
+        <p>Telephone: 111-111-1111 Address: Toronto, Ontario</p>
+        <p>Kadrine's Photography &copy;</p>
+      </div>
+      </footer>
+    <script src="script.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>

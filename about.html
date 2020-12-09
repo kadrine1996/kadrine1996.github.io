@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web222 Store</title>
+    <link rel="shortcut icon" href="images/icon.jpg" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@200;300&family=Roboto+Slab&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+    </style>
+  </head>
+  <body>
+    <div class="WebContainer">
+      <div class="logo">
+        <h3>Kadrine's<br />Photography</h3>
+      </div>
+      <div class="mobile-container">
+        <div class="topnav">
+          <a href="index.html" class="active">Home</a>
+          <div id="myLinks">
+            <a href="about.html" class="topnav">About</a>
+            <a href="contact.html" class="topnav">Contact Us</a>
+          </div>
+          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a>
+      </div>
+    </div>
+      <script>
+        function myFunction() {
+          var x = document.getElementById('myLinks');
+          if (x.style.display === 'block') {
+            x.style.display = 'none';
+          } else {
+            x.style.display = 'block';
+          }
+        }
+      </script>
+
+      <div id="about-container">
+        <div id="about_text-home">
+          <h1 id="about">About Me</h1>
+          <p>
+            My photography journey began in my second last year of universtiy. I began photographing
+            abandoned areas in Windsor such as abandoned train tracks, buildings, and houses. These
+            areas were left untouched for years, causing wild life to reclaim the land. I was
+            fascinated at how ecosystems can repair themselves after being left alone. As you can
+            see in the descriptions of my collections, my photography harbours on environmentalism
+            as I bring attention to vast lands being unprooted for development, and water that is
+            unlivable. Many of these areas were once family homes, now left abandoned. I enjoy
+            different uses of colours and mediums to capture the natural beauty of nature and the
+            world around us! I hope you enjoy browsing my online gallery as much as I enjoyed taking
+            these photos.
+          </p>
+        </div>
+      </div>
+
+      <div class="socials">
+        <a href="https://facebook.com"><i class="fa fa-facebook-square"></i></a>
+        <a href="https://instagram.com"><i class="fa fa-instagram"></i></a>
+        <a href="https://twitter.com"><i class="fa fa-twitter"></i></a>
+      </div>
+
+      <footer>
+        <div class="footer">
+          <p>Telephone: 111-111-1111 Address: Toronto, Ontario</p>
+          <p>Kadrine's Photography &copy;</p>
+        </div>
+      </footer>
+   
+
+    <script src="script.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
