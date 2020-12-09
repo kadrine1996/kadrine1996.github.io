@@ -28,7 +28,7 @@ window.picturesData = [
   {
     name: 'Under the Bridge',
     category: 'Water Series',
-    imageUrl: 'images/item-22.jpg',
+    imageUrl: 'item-22.jpg',
     description:
       'Taken in in Windsor, Ontario, Canada. Captured is the essence of Windsor, being a border city there is constant transport to and from Detroit everyday. There is an approximate of 10,000 trucks and hundreds of ships transporting cargo each day.',
     price: 30
