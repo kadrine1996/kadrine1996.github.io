@@ -87,7 +87,7 @@ When an email with the innocrect pattern is inputted, this pops up:
 <img src="image/newsletter(1).jpg" alt="newsletter" />
 <br>
 <br/>
-The contact form in the https://kadrinelee.github.io/contact.html/ has the same type of validation, including use of JavaScript to dynamically reveal a box if the user picks a specific radio option.
+The contact form in the https://kadrinelee.github.io/contact.html has the same type of validation, including use of JavaScript to dynamically reveal a box if the user picks a specific radio option.
 
 
 >This form was styled using CSS Bootstrap, available at https://getbootstrap.com/
