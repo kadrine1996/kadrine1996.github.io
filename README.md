@@ -43,18 +43,18 @@ I used CSS to design the layout of my website,  including use of `flexbox` layou
 For example, using flexbox this is the design layout to fit my laptop screen
 
 
-![website layout on laptop](image/website_desktop(1).jpg)
+<img src="image/website_desktop(1).jpg" alt="website layout" width=300/>
 <br/>
 
-![website layout on laptop](image/website_desktop(2).jpg)
+<img src="image/website_desktop(2).jpg" alt="website layout" width=300 />
 
 <br/>
 
 > The website layout on my iPhone 11:
 
-![website layout on laptop](image/mobile(1).PNG)
+<img src="image/mobile(1).PNG" alt="website layout on iPhone 11" width=300 />
 
-![website layout on laptop](image/mobile(2).PNG)
+<img src="image/mobile(2).PNG" alt="website layout on iPhone 11" width=300 />
 
 >Peruse my style.css to see styling I used to achieve my website design.
 
@@ -84,7 +84,7 @@ In my HTML I included regex to validate user-email input before it reaches a ser
 
 When an email with the innocrect pattern is inputted, this pops up:
 
-![News Letter](image/newsletter(1).jpg)
+<img src="image/newsletter(1).jpg" alt="newsletter" />
 <br>
 <br/>
 The contact form in the https://kadrinelee.github.io/contact.html/ has the same type of validation, including use of JavaScript to dynamically reveal a box if the user picks a specific radio option.
@@ -93,7 +93,7 @@ The contact form in the https://kadrinelee.github.io/contact.html/ has the same 
 >This form was styled using CSS Bootstrap, available at https://getbootstrap.com/
 
 
-![contact form](image/contact_us(2).jpg)
+<img src="image/contact_us(2).jpg" alt="contact form" />
 
 #
 
