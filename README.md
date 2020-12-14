@@ -43,18 +43,18 @@ I used CSS to design the layout of my website,  including use of `flexbox` layou
 For example, using flexbox this is the design layout to fit my laptop screen
 
 
-<img src="image/website_desktop(1).jpg" alt="website layout" width=300/>
+<img src="image/website_desktop(1).jpg" alt="website layout" width=400/>
 <br/>
 
-<img src="image/website_desktop(2).jpg" alt="website layout" width=300 />
+<img src="image/website_desktop(2).jpg" alt="website layout" width=400 />
 
 <br/>
 
 > The website layout on my iPhone 11:
 
-<img src="image/mobile(1).PNG" alt="website layout on iPhone 11" width=300 />
+<img src="image/mobile(1).PNG" alt="website layout on iPhone 11" width=400 />
 
-<img src="image/mobile(2).PNG" alt="website layout on iPhone 11" width=300 />
+<img src="image/mobile(2).PNG" alt="website layout on iPhone 11" width=400 />
 
 >Peruse my style.css to see styling I used to achieve my website design.
 
