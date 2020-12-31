@@ -138,8 +138,6 @@ a {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  margin-left: 10%;
-  margin-right: 10%;
   margin-top: 10%;
 }
 
