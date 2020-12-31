@@ -10,7 +10,7 @@ window.picturesData = [
     price: 20
   },
   {
-    name: 'Going Nowhere in Black and White',
+    name: 'Going Nowhere BW',
     category: 'Abandoned Series',
     imageUrl: 'images/item-2.jpg',
     description:
