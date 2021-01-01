@@ -96,6 +96,17 @@ The contact form in the https://kadrinelee.github.io/contact.html has the same t
 <img src="image/contact_us(2).jpg" alt="contact form" />
 
 #
+# UPDATE
+> Modification made to the naviagtion on index.html 
+
+In order to collapse the menu navigation for a better UX I used JQUERY:
+
+```
+$("#myLinks a").click(function () {
+            $("#myLinks").hide();
+                });
+```                
+This function collapses the menu bar when a user clicks on a menu link!
 
 # Summary
 
