@@ -3,7 +3,7 @@
 ## Overview
 
 # 
-For my final project, I was tasked to create a website where I had to sell a product of my choosing. I decided to sell my actual photography, giving each photo a card and an image shortcut e.g.:
+For my final project, I was tasked to create a website where I had to sell a product of my choosing. I decided to sell my actual photography, giving each photo a card an image shortcut e.g.:
 
 ```
    
@@ -38,7 +38,7 @@ Available in my script.js file
 ## CSS
 ## The design layout
 
-I used CSS to design the layout of my website,  including use of `flexbox` layout. `Flex box` played a significant role in designing a responsive website, since it creates a responsive layout to be arranged depending on the screen size.
+I used CSS to design the layout of my website,  including use of `flexbox` layout. `Flex box` played a significant role in designing a responsive website since it creates a responsive layout to be arranged depending on the screen size.
 
 For example, using flexbox this is the design layout to fit my laptop screen
 
